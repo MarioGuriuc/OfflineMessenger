@@ -1,5 +1,5 @@
 # OfflineMessenger
-Offline Messenger application consisting of a server and a client made in C++ using POSIX sockets, Qt for the GUI and SQLite 3 for the Database.
+Offline Messenger application consisting of a server and a client made in C++ using POSIX sockets and threads, Qt for the GUI and SQLite 3 for the Database.
 More project information available in the documentation.
 
 Login Example:
