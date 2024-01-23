@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-e06c0b7cba656929845c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt_project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_project-Release-57105479ddbbd92cbb30.json",
+					"name" : "qt_project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_project_autogen-Release-498a8679d0a9186d808e.json",
+					"name" : "qt_project_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mario/Desktop/client&server/build-qt_project-Desktop_Qt_6_6_1_GCC_64bit-Release",
+		"source" : "/home/mario/Desktop/client&server/qt_project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

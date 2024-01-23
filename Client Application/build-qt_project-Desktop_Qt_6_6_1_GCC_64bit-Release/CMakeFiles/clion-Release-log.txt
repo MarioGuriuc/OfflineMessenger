@@ -1,0 +1,4 @@
+/home/mario/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/mario/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/mario/Desktop/client&server/qt_project -B /home/mario/Desktop/client&server/build-qt_project-Desktop_Qt_6_6_1_GCC_64bit-Release
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mario/Desktop/client&server/build-qt_project-Desktop_Qt_6_6_1_GCC_64bit-Release

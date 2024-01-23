@@ -1,0 +1,3 @@
+/home/mario/CLionProjects/PROIECT_RETELE_SERVER/cmake-build-debug/CMakeFiles/PROIECT_RETELE_SERVER.dir
+/home/mario/CLionProjects/PROIECT_RETELE_SERVER/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mario/CLionProjects/PROIECT_RETELE_SERVER/cmake-build-debug/CMakeFiles/rebuild_cache.dir
